@@ -29,7 +29,7 @@ pipeline {
         }
         stage('production') {
             steps {
-                echo 'i love you so much'
+                echo 'end of the game'
 
   
             }
